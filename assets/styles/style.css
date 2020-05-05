@@ -1,12 +1,13 @@
 :root {
-  --warning-level-one: #f00;
-  --warning-level-two: #f00;
-  --warning-level-three: #f00;
-  --warning-level-four: #f00;
-  --warning-level-five: #f00;
-  --warning-level-six: #f00;
-  --warning-level-seven: #f00;
-  --warning-level-eight: #f00;
-  --warning-level-nine: #f00;
-  --warning-level-ten: #f00;
+  --warning-level-one: #ffff00;
+  --warning-level-two: #ffe300;
+  --warning-level-three: #ffc600;
+  --warning-level-four: #ffaa00;
+  --warning-level-five: #ff8e00;
+  --warning-level-six: #ff7100;
+  --warning-level-seven: #ff5500;
+  --warning-level-eight: #ff3900;
+  --warning-level-nine: #ff1c00;
+  --warning-level-ten: #ff0000;
+  --official-text-color: #000000;
 }
