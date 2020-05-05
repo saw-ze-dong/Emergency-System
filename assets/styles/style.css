@@ -14,3 +14,28 @@ table, tr, td, th {
   border: 1px solid black;
   border-collapse: collapse;
 }
+
+.warn1 {
+  background-color: var(--warning-level-one);
+}
+.warn2 {
+  background-color: var(--warning-level-two);
+}
+.warn3 {
+  background-color: var(--warning-level-three);
+}
+.warn4 {
+  background-color: var(--warning-level-four);
+}
+.warn5 {
+  background-color: var(--warning-level-five);
+}
+.warn6 {
+  background-color: var(--warning-level-six);
+}
+.warn7 {
+  background-color: var(--warning-level-seven);
+}
+.warn8 {
+  background-color: var(--warning-level-eight);
+}
