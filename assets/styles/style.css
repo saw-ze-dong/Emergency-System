@@ -19,11 +19,24 @@ th {
   padding: 5px;
   text-align: center;
 }
-
+#tableWarn {
+  width: 57%;
+  margin: 0.5%;
+}
+#overall {
+  display: flex;
+}
+#trackWarn {
+  width: 37%;
+  margin: 0.5%;
+}
+#descIn {
+  resize: none;
+  overflow: auto;
+}
 .fas {
   margin-top: 5px;
 }
-
 .warn1 {
   background-color: var(--warning-level-one);
 }
